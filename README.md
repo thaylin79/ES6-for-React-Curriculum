@@ -1,7 +1,7 @@
 <img src="http://www.reactjsprogram.com/images/reactjsprogram-500.png" width="250" align="right">
 
 ES6/7 for React Curriculum
-========
+=========
 
 ##Objective
 Refactor an application to use ES6/7 from ES5.
